@@ -1,2 +1,2 @@
-Repositório dos meus trabalhos de EDL relacionados à linguagem Aldor.
+Repositório dos meus trabalhos de EDL.
 
